@@ -29,7 +29,7 @@ const navbar = (
     logo={
     <>
       <Image width={60} height={60} src="/images/lclogo.jpg" alt="Last Contact Logo, Pink LC in a pink ring on black background."/>
-      <span><b>Josie's Blog</b><br />The thoughts of an elder millennial</span>
+      <span><b>Josie's Portfolio</b><br />What I've done over the years</span>
     </>
     }
     projectLink='https://bsky.app/profile/last-contact.net'
