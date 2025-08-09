@@ -15,6 +15,7 @@ export const metadata = {
   openGraph: {
     siteName: 'Josie\'s Portfolio',
     locale: 'en_US',
+    image: '',
     type: 'website'
   },
   formatDetection: {
