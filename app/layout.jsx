@@ -33,7 +33,7 @@ const navbar = (
       <span><b>Josie's Portfolio</b><br />How I surface in society</span>
     </>
     }
-    projectLink='https://bsky.app/profile/last-contact.net'
+    projectLink='https://bsky.app/profile/lastcontact.space'
     projectIcon={
       <svg width="24" height="24">
       <image width="24" height="24" href="/images/bluesky-logo.png" alt="Mastodon Logo" />
