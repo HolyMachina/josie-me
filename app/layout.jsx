@@ -6,14 +6,14 @@ import Image from 'next/image'
  
 export const metadata = {
    title: {
-    default: 'Josie\'s Portfolio',
-    template: '%s | Josie\'s Portfolio'
+    default: 'About Josie',
+    template: '%s | About Josie'
   },
   generator: 'Next.js',
   applicationName: 'Nextra',
   authors: [{name: "Josephine Troiani"},{name: "Josie Troiani"}],
   openGraph: {
-    siteName: 'Josie\'s Portfolio',
+    siteName: 'About Josie',
     locale: 'en_US',
     image: '',
     type: 'website'
@@ -29,7 +29,7 @@ const navbar = (
   <Navbar
     logo={
     <>
-      <span><b>Josie's Portfolio</b><br />How I surface in society</span>
+      <span><b>About Josie</b></span>
     </>
     }
     projectLink='https://bsky.app/profile/lastcontact.space'

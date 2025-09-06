@@ -13,11 +13,11 @@ export default {
     
     //separatorwriting: {type: 'separator', title: 'Writing Stuff'},
     
-    separatorbiography: {type: 'separator', title: 'Biographical Stuff'},
-    josie: 'About Josie',
+    //separatorbiography: {type: 'separator', title: 'Biographical Stuff'},
+    //josie: 'About Josie',
     
-    separatormeta: {type: 'separator', title: 'Meta Site Stuff'},
-    index: 'Home',
+    //separatormeta: {type: 'separator', title: 'Meta Site Stuff'},
+    index: 'About Josie',
     privacy: 'Privacy Policy'//,
     //license: 'License & Terms'
 }
