@@ -18,6 +18,6 @@ export default {
     
     separatormeta: {type: 'separator', title: 'Meta Site Stuff'},
     index: 'Home',
-    privacy: 'Privacy Policy',
-    license: 'License & Terms'
+    privacy: 'Privacy Policy'//,
+    //license: 'License & Terms'
 }
